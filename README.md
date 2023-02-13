@@ -1,11 +1,12 @@
 # Thiết kế souce code React basic
 ## Mục lục
 
-[1. Thông tin source code]
+# [1. Thông tin source code]
 https://github.com/pschuongvtt/React_Hook_Basic
 
 
-[2. Thông tin các dependencies của React using]
+# [2. Thông tin các dependencies của React using]
+```
 Dùng từ khóa để tải các gói dependencies: npm install --save-exact 'dependency'@'version'
     @testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -18,21 +19,25 @@ Dùng từ khóa để tải các gói dependencies: npm install --save-exact 'd
     "react-scripts": "5.0.1",
     "sass": "1.58.0",
     "web-vitals": "^2.1.4"
+```
 
-[3. Thông tin cây thư mục]
+# [3. Thông tin cây thư mục]
 ![](./images/CayThuMuc.png)
 
-[4. Nội dung thông tin Project]
+# [4. Nội dung thông tin Project]
 # 4.1. Chạy chương trình 
 CMD / Terminal: npm start
+
 # 4.2. Chạy trang Home
 Kết quả đạt được 
 ![](./images/HomePage.png)
+
 # 4.2 Chạy trang Todo App 
 Kết quả đạt được 
 ![](./images/TodoAppBefore.png)
 
 ![](./images/TodoAppAfter.png)
+
 # 4.2 Chạy trang Router Link
 ![](./images/RouterLinkBefore.png)
 
