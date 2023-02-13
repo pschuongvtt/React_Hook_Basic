@@ -20,23 +20,23 @@ Dùng từ khóa để tải các gói dependencies: npm install --save-exact 'd
     "web-vitals": "^2.1.4"
 
 [3. Thông tin cây thư mục]
-![](./src/images/CayThuMuc.png)
+![](./images/CayThuMuc.png)
 
 [4. Nội dung thông tin Project]
 # 4.1. Chạy chương trình 
 CMD / Terminal: npm start
 # 4.2. Chạy trang Home
 Kết quả đạt được 
-![](./src/images/HomePage.png)
+![](./images/HomePage.png)
 # 4.2 Chạy trang Todo App 
 Kết quả đạt được 
-![](./src/images/TodoAppBefore.png)
+![](./images/TodoAppBefore.png)
 
-![](./src/images/TodoAppAfter.png)
+![](./images/TodoAppAfter.png)
 # 4.2 Chạy trang Router Link
-![](./src/images/RouterLinkBefore.png)
+![](./images/RouterLinkBefore.png)
 
-![](./src/images/RouterLinkAfter.png)
+![](./images/RouterLinkAfter.png)
 
 Người thực hiện 
 ## ThuHuong
